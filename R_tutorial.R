@@ -58,11 +58,11 @@ print(gender_factor)
 
 #create dataframe 
 BMI = data.frame(
- gender=c('Male','Female','Male'),
- height=c(160.7,165.3,157.4),
- weight=c(63,65.6,59),
- age=c(18,19,20)
-)
+                   gender=c('Male','Female','Male'),
+                   height=c(160.7,165.3,157.4),
+                   weight=c(63,65.6,59),
+                   age=c(18,19,20)
+                 )
 print(BMI) 
 
 
