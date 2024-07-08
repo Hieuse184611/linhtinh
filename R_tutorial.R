@@ -43,6 +43,9 @@ factor_apple = factor(apple_color)
 #print the factor 
 print((factor_apple))
 print(nlevels(factor_apple))
+
+
+#FACTOR 
 #FROM GERMINI
 # Tạo một vector chứa giới tính của 5 người
 gender <- c("Nam", "Nữ", "Nam", "Nữ", "Nữ")
@@ -52,7 +55,6 @@ gender_factor <- factor(gender)
 print(gender)
 # Hiển thị factor gender_factor
 print(gender_factor)
-
 
 #create dataframe 
 BMI = data.frame(
